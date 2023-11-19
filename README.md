@@ -1,4 +1,4 @@
-# pipcounter
+# An application we call the "Pipcounter" to count your domino Pips from a picture 
 An elegant python program to count dominoes and the colored pips for scoring a game
 
 Run the code and be sure to try the images I shared to validate its working able to count pips... 
